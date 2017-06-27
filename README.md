@@ -1,12 +1,10 @@
 # 郑锴文 - 个人简历
 ## 基本信息
-姓名 | 郑锴文 | 性别 | 男
----|---|---|---
-籍贯|广东饶平|居住地|广州
-出生年月|1995.7|政治面貌|团员
-学历|本科|专业|财务管理
+姓名 | 郑锴文 | 性别 | 男 | 籍贯 | 广东饶平 | 居住地 | 广州
+出生年月|1995.7|政治面貌|团员|学历|本科|专业|财务管理
 毕业院校|广东外语外贸大学南国商学院|期望薪资|4000以上
-手机号码|18819281238|电子邮箱|keven@xiaok.site
+#### 手机号码：18819281238
+#### 电子邮箱：keven@xiaok.site
 ## 教育信息
 2013.9-2017.6  广东外语外贸大学南国商学院  财务管理<br>
 主要课程：财务会计、成本管理会计、财务管理、投资学、金融学、税法、审计学
@@ -36,9 +34,12 @@
 - ERP手工沙盘模拟对抗认证
 - 了解用友与金蝶ERP系统的使用
 ### 计算机
-- [x] 全国计算机水平考试一级（OFFICE）
-- [x] 全国计算机水平考试二级（access数据库）
-> 1、熟悉office办公软件，精通Excle使用，掌握Excle函数和常用数据分析操作，会编写简单的excle宏;<br>2、掌握Photoshop、Illustrator操作，会使用After Effects和Premiere制作简单视频，熟悉爱剪辑、会声会影软件使用；<br>3、会使用HTML、DIV+CSS制作符合Web标准的网页；<br>4、掌握php+mysql使用，接触Thinkphp框架，理解MVC开发模式，掌握jquery框架，了解Ajax等技术，掌握Wordpress，Discuz,dedecms等应用，会使用Git工具。
+- 全国计算机水平考试一级（OFFICE）
+- 全国计算机水平考试二级（access数据库）
+- 熟悉office办公软件，精通Excle使用，掌握Excle函数和常用数据分析操作，会编写简单的excle宏;
+- 掌握Photoshop、Illustrator操作，会使用After Effects和Premiere制作简单视频，熟悉爱剪辑、会声会影软件使用；
+- 会使用HTML、DIV+CSS制作符合Web标准的网页；
+- 掌握php+mysql使用，接触Thinkphp框架，理解MVC开发模式，掌握jquery框架，了解Ajax等技术，掌握Wordpress，Discuz,dedecms等应用，会使用Git工具。
 ### 其他
 - 已取得C1驾照
 ## 项目经历
