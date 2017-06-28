@@ -25,16 +25,19 @@
 ## 工作经历
 ### 安信证券深圳光明营业部  实习生  2017.3-至今
 负责银行渠道的客户开发等。
+---
 ## 技能证书
 ### 语言
 - 大学英语四级
 - 普通话
 - 粤语
-- 潮汕话<br>
+- 潮汕话
+---
 ### 财会
 - 会计从业资格证
 - ERP手工沙盘模拟对抗认证
 - 了解用友与金蝶ERP系统的使用
+---
 ### 计算机
 - 全国计算机水平考试一级（OFFICE）
 - 全国计算机水平考试二级（access数据库）
@@ -42,17 +45,21 @@
 - 掌握Photoshop、Illustrator操作，会使用After Effects和Premiere制作简单视频，熟悉爱剪辑、会声会影软件使用；
 - 会使用HTML、DIV+CSS制作符合Web标准的网页；
 - 掌握php+mysql使用，接触Thinkphp框架，理解MVC开发模式，掌握jquery框架，了解Ajax等技术，掌握Wordpress，Discuz,dedecms等应用，会使用Git工具。
+---
 ### 其他
 - 已取得C1驾照
+---
 ## 项目经历
 ### 新媒体运营类
 - [百度校园粉丝吧](https://tieba.baidu.com/f?kw=%B0%D9%B6%C8%D0%A3%D4%B0%B7%DB%CB%BF&fr=index)
 - [百度糯米迷影社](http://tieba.baidu.com/f?ie=utf-8&kw=%E7%99%BE%E5%BA%A6%E7%B3%AF%E7%B1%B3%E8%BF%B7%E5%BD%B1%E7%A4%BE&fr=search)
 - [家在饶平（本地资讯橙V微博号）](http://weibo.com/2684468017)
+---
 ### 网页开发类
 - [个人主页](http://www.xiaok.site)
 - [潮汕天气网（基于ThinkPHP框架）](http://csqx.sinaapp.com)
 - [家在饶平（基于Wordpress）](http://jzrp.sinaapp.com)
 更多请查看我的ginhub和主页。
+---
 ## 自我评价
 本人性格积极乐观，待人友好，学习能力强，责任心重，注重团队精神和意识。期望能够获得一个为公司创造价值的机会。
