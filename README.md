@@ -28,25 +28,24 @@
 ***
 ## 技能证书
 ### 语言
-- 大学英语四级
-- 普通话 | 粤语 | 潮汕话
-
+###### 大学英语四级
+###### 普通话 | 粤语 | 潮汕话
 ---
 ### 财会
-- 会计从业资格证
-- ERP手工沙盘模拟对抗认证
-- 了解用友与金蝶ERP系统的使用
+###### 会计从业资格证
+###### ERP手工沙盘模拟对抗认证
+###### 了解用友与金蝶ERP系统的使用
 ---
 ### 计算机
-- 全国计算机水平考试一级（OFFICE）
-- 全国计算机水平考试二级（access数据库）
-- 熟悉office办公软件，精通Excle使用，掌握Excle函数和常用数据分析操作，会编写简单的excle宏;
-- 掌握Photoshop、Illustrator操作，会使用After Effects和Premiere制作简单视频，熟悉爱剪辑、会声会影软件使用；
-- 会使用HTML、DIV+CSS制作符合Web标准的网页；
-- 掌握php+mysql使用，接触Thinkphp框架，理解MVC开发模式，掌握jquery框架，了解Ajax等技术，掌握Wordpress，Discuz,dedecms等应用，会使用Git工具。
+###### 全国计算机水平考试一级（OFFICE）
+###### 全国计算机水平考试二级（access数据库）
+###### 熟悉office办公软件，精通Excle使用，掌握Excle函数和常用数据分析操作，会编写简单的excle宏;
+###### 掌握Photoshop、Illustrator操作，会使用After Effects和Premiere制作简单视频，熟悉爱剪辑、会声会影软件使用；
+###### 会使用HTML、DIV+CSS制作符合Web标准的网页；
+###### 掌握php+mysql使用，接触Thinkphp框架，理解MVC开发模式，掌握jquery框架，了解Ajax等技术，掌握Wordpress，Discuz,dedecms等应用，会使用Git工具。
 ---
 ### 其他
-- 已取得C1驾照
+###### 已取得C1驾照
 ---
 ## 项目经历
 ### 新媒体运营类
