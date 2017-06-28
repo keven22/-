@@ -49,9 +49,7 @@
 ---
 ## 项目经历
 ### 新媒体运营类
-- [百度校园粉丝吧](https://tieba.baidu.com/f?kw=%B0%D9%B6%C8%D0%A3%D4%B0%B7%DB%CB%BF&fr=index)
-- [百度糯米迷影社](http://tieba.baidu.com/f?ie=utf-8&kw=%E7%99%BE%E5%BA%A6%E7%B3%AF%E7%B1%B3%E8%BF%B7%E5%BD%B1%E7%A4%BE&fr=search)
-- [家在饶平（本地资讯橙V微博号）](http://weibo.com/2684468017)
+[百度校园粉丝吧](https://tieba.baidu.com/f?kw=%B0%D9%B6%C8%D0%A3%D4%B0%B7%DB%CB%BF&fr=index) | [百度糯米迷影社](http://tieba.baidu.com/f?ie=utf-8&kw=%E7%99%BE%E5%BA%A6%E7%B3%AF%E7%B1%B3%E8%BF%B7%E5%BD%B1%E7%A4%BE&fr=search) | [家在饶平（本地资讯橙V微博号）](http://weibo.com/2684468017) 
 ---
 ### 网页开发类
 - [个人主页](http://www.xiaok.site)
