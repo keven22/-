@@ -54,7 +54,7 @@
 ### 网页开发类
 - [个人主页](http://www.xiaok.site)
 - [潮汕天气网（基于ThinkPHP框架）](http://csqx.sinaapp.com)
-- [家在饶平（基于Wordpress）](http://jzrp.sinaapp.com)
+- [家在饶平（基于Wordpress）](http://jzrp.sinaapp.com)<br>
 更多请查看我的ginhub和主页。
 ---
 ## 自我评价
